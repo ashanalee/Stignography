@@ -1,4 +1,4 @@
-# Steganography App
+# Stignography
 This Python script enables users to hide text data within an image using steganography techniques. The image acts as a cover for the secret message, making it inconspicuous to observers. The application utilizes the OpenCV library for image processing and provides a simple command-line interface for interaction.
 
 ## Features
